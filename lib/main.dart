@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
               children: [
               Container(
               child: const Text('Omar Hafsa',
-              style: TextStyle(fontSize: 32,fontWeight: FontWeight.bold),
+              style: TextStyle(fontSize: 32,fontWeight: FontWeight.bold,color: Colors.green),
               ),
               margin: const EdgeInsets.fromLTRB(100, 150, 100, 200),
              ),
